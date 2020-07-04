@@ -13,6 +13,7 @@ public class Assignment1 {
 		b= temp;
 		
 		//swapping the value
+	
 		
 		System.out.println(b);//10
 		System.out.println(a);//20
