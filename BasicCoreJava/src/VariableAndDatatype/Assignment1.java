@@ -6,6 +6,11 @@ public class Assignment1 {
 		// TODO Auto-generated method stub
 		int a=10;
 		int b=20;
+		int temp;
+		
+		temp =a;
+		a =b;
+		b= temp;
 		
 		//swapping the value
 		
