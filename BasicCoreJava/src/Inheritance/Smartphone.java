@@ -8,5 +8,10 @@ public class Smartphone extends Mobiles {
 		
 		
 	}
+	public void calling()
+	{
+		System.out.println("calling from Smartphone");
+	
 
+	}
 }

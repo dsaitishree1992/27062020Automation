@@ -17,7 +17,7 @@ public class Callvariables {
 		System.out.println(ref.name);
 		
 		System.out.println(ref2.name2);
-		System.out.println(ref2.name2);
+		System.out.println(ref.name2);
 				
 
 	}
