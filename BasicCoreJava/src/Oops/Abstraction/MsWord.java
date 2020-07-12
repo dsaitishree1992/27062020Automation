@@ -1,6 +1,6 @@
 package Oops.Abstraction;
 
-public abstract class MsWord {
+public abstract class MsWord{
 
 	//Sprint1
 	public abstract void copy();
@@ -14,5 +14,6 @@ public abstract class MsWord {
 	public abstract void edit();
 	public abstract void layout();
 	
-	
 }
+	
+
