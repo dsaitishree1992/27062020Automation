@@ -11,9 +11,12 @@ public class Users {
 		
 		
 		
-		  Mobiles mob= new Mobiles(); mob.calling(); mob.texting();
+		  Mobiles mob= new Mobiles(); 
+		  mob.calling(); 
+		  mob.texting();
 		  
-		  Telephone tel = new Telephone(); tel.calling();
+		  Telephone tel = new Telephone(); 
+		  tel.calling();
 		 
 			
 		

@@ -28,6 +28,16 @@ public class MultidiamentionalArray1 {
 		data[0][8] ="9";
 		data[0][9] ="10";
 		
+		for (int r=0; r< data.length; r++)
+		{
+			for (int c=0; c<data[r].length; c++)
+			{
+				System.out.print(data[r][c]+ " ");
+			
+			}
+			System.out.println();
+		}
+		
 		
 
 	}
